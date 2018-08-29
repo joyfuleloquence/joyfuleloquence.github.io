@@ -1,6 +1,5 @@
 ## Welcome to Insight of Life: Joyful Eloquence
 
-<!doctype html>
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
