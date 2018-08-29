@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Insight of Life: Joyful Eloquence
 
-You can use the [editor on GitHub](https://github.com/joyfuleloquence/joyfuleloquence.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
